@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserGenderValidation", "UserGenderValidation\UserGenderValidation.csproj", "{A855610E-E24F-4046-8BFE-20C71CC168E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAgeValidation", "UserAgeValidation\UserAgeValidation.csproj", "{B5CC6D88-BA7B-4DDA-B3D9-192FFE902F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A855610E-E24F-4046-8BFE-20C71CC168E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A855610E-E24F-4046-8BFE-20C71CC168E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A855610E-E24F-4046-8BFE-20C71CC168E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A855610E-E24F-4046-8BFE-20C71CC168E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CC6D88-BA7B-4DDA-B3D9-192FFE902F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CC6D88-BA7B-4DDA-B3D9-192FFE902F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CC6D88-BA7B-4DDA-B3D9-192FFE902F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CC6D88-BA7B-4DDA-B3D9-192FFE902F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {290BAC86-CB75-4775-A7EF-37C209427883}
+	EndGlobalSection
+EndGlobal

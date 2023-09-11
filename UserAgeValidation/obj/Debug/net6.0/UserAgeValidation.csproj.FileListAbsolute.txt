@@ -1,0 +1,14 @@
+C:\Users\Onoca\source\repos\UserGenderValidation\UserAgeValidation\bin\Debug\net6.0\UserAgeValidation.exe
+C:\Users\Onoca\source\repos\UserGenderValidation\UserAgeValidation\bin\Debug\net6.0\UserAgeValidation.deps.json
+C:\Users\Onoca\source\repos\UserGenderValidation\UserAgeValidation\bin\Debug\net6.0\UserAgeValidation.runtimeconfig.json
+C:\Users\Onoca\source\repos\UserGenderValidation\UserAgeValidation\bin\Debug\net6.0\UserAgeValidation.dll
+C:\Users\Onoca\source\repos\UserGenderValidation\UserAgeValidation\bin\Debug\net6.0\UserAgeValidation.pdb
+C:\Users\Onoca\source\repos\UserGenderValidation\UserAgeValidation\obj\Debug\net6.0\UserAgeValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onoca\source\repos\UserGenderValidation\UserAgeValidation\obj\Debug\net6.0\UserAgeValidation.AssemblyInfoInputs.cache
+C:\Users\Onoca\source\repos\UserGenderValidation\UserAgeValidation\obj\Debug\net6.0\UserAgeValidation.AssemblyInfo.cs
+C:\Users\Onoca\source\repos\UserGenderValidation\UserAgeValidation\obj\Debug\net6.0\UserAgeValidation.csproj.CoreCompileInputs.cache
+C:\Users\Onoca\source\repos\UserGenderValidation\UserAgeValidation\obj\Debug\net6.0\UserAgeValidation.dll
+C:\Users\Onoca\source\repos\UserGenderValidation\UserAgeValidation\obj\Debug\net6.0\refint\UserAgeValidation.dll
+C:\Users\Onoca\source\repos\UserGenderValidation\UserAgeValidation\obj\Debug\net6.0\UserAgeValidation.pdb
+C:\Users\Onoca\source\repos\UserGenderValidation\UserAgeValidation\obj\Debug\net6.0\UserAgeValidation.genruntimeconfig.cache
+C:\Users\Onoca\source\repos\UserGenderValidation\UserAgeValidation\obj\Debug\net6.0\ref\UserAgeValidation.dll
